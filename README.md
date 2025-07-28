@@ -1,6 +1,8 @@
 # PythonJob_Dataset
 This dataset contains companies that required python and related skill
 
+# Link: https://www.kaggle.com/datasets/adityayadav93/25-pythonjob-data-extracted-using-beautifulsoup
+
 # 🕸️ Web Scraping Project
 
 This repository contains a Python-based web scraping tool designed to extract structured information from HTML pages. It's ideal for gathering data such as job listings, article metadata, or product details.
